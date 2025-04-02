@@ -1,6 +1,6 @@
 # React-block and ACF-block for WordPress block editor Gutenberg
 
-This blocks are custom Gutenberg-blocks for WordPress. To install these blocks, you need WordPress-website with the Gutenberg block editor.
+This blocks are custom Gutenberg-blocks for WordPress.
 
 - Note: the styling of the blocks is minimal, since the blocks are just samples.
 
